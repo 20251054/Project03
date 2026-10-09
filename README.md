@@ -6,3 +6,4 @@ Project 03 version1 completed
 2nd Team Member: <20231071>
 Project 03 version2 completed
 3rd Team Member: <김재하>
+3rd Team Member: <20231048>
